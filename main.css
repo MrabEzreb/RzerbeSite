@@ -1,0 +1,8 @@
+#homeBody {
+    background-image: url(images/yurmies.jpg);
+    background-size: cover;
+}
+.center {
+    text-align: center;
+    color: greenyellow;
+}
